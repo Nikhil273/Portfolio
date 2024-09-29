@@ -200,7 +200,8 @@ nav ul li a:hover {
 .project-tittle a {
   font-size: 28px;
   color: #58a6ff;
-  margin-bottom: 10px;
+  margin-bottom:0px;
+  padding-left:15px;
   text-decoration: none;
 }
 
@@ -221,23 +222,24 @@ nav ul li a:hover {
   display: flex;
   flex-direction: column;
   border-radius: 10px;
-  padding: 20px;
+  padding: 30px;
   background-color: #0d1117;
 }
 
 .contact-content form input,
 .contact-content form textarea {
   padding: 10px;
-  margin-bottom: 10px;
+  margin-bottom: 15px;
+  height:25px;
   border: 1px solid #c9d1d9;
   background-color: #161b22;
-  color: #c9d1d9;
+  color: #c9ada7;
   border-radius: 5px;
 }
 
 .contact-content form .btn {
   background: #238636;
-  color: #fff;
+  color: #c9ada7;
   padding: 10px 20px;
   text-decoration: none;
   font-weight: 500;
@@ -252,7 +254,7 @@ nav ul li a:hover {
 
 footer {
   background: #161b22;
-  color: #fff;
+  color: #c9ada7;
   text-align: center;
   padding: 20px 0;
   margin-top: 40px;
