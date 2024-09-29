@@ -172,7 +172,7 @@ nav ul li a:hover {
 
 .experience-content .job {
   margin-bottom: 30px;
-  padding: 20px;
+  padding: 15px;
   border-radius: 10px;
   background-color: #4a4e69; /*all bc */
 }
@@ -180,7 +180,8 @@ nav ul li a:hover {
 .experience-content .job h3 {
   font-size: 28px;
   color: #58a6ff; /*all bc */
-  margin-bottom: 10px;
+  margin-bottom: 0px;
+  margin-top: 2px;
 }
 
 .experience-content .job span {
@@ -207,15 +208,16 @@ nav ul li a:hover {
 
 .education-content .education-item {
   margin-bottom: 30px;
-  padding: 20px;
+  padding: 15px;
   border-radius: 10px;
   background-color: #4a4e69;
 }
 
 .education-content .education-item h3 {
+  margin-top: 3px;
   font-size: 28px;
   color: #58a6ff;
-  margin-bottom: 10px;
+  margin-bottom: 0px;
 }
 
 .contact-content form {
